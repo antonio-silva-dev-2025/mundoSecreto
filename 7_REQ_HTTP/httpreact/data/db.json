@@ -29,6 +29,31 @@
       "name": "guarda chuva",
       "price": "45",
       "id": 6
+    },
+    {
+      "name": "mouse",
+      "price": "33",
+      "id": 9
+    },
+    {
+      "name": "cabo hdmi",
+      "price": "23",
+      "id": 10
+    },
+    {
+      "name": "tela",
+      "price": "22",
+      "id": 11
+    },
+    {
+      "name": "celular",
+      "price": "44",
+      "id": 12
+    },
+    {
+      "name": "fone",
+      "price": "10",
+      "id": 13
     }
   ]
 }
